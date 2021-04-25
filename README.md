@@ -1,4 +1,6 @@
 # OS
+"Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime."
+
 Contains all Assignments of 2nd Semester.
 All codes will run in Linux/Unix systems.
 
