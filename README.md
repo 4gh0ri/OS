@@ -11,4 +11,4 @@ Then run the code using:
 To compile code with threads and semaphore using following:
 gcc -o outputfile program.c -lpthread or -lpt
 
-If I have saved your ass by giving all assignments then you can Buy me a drink/Samosa at the University Cafeteria.
+If I have saved your ass by giving all assignments then you can Buy me a Nimbooz/Samosa at the University Cafeteria.
