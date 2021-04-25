@@ -1,6 +1,6 @@
 # OS
-Contains all source codes for semester 2 assignments 
-All codes will run in Linux/Unix systems
+Contains all Assignments of 2nd Semester.
+All codes will run in Linux/Unix systems.
 
 Compile the code with following command:
 gcc -o outputfile program.c
