@@ -1,4 +1,15 @@
-/*Code Written By:Om Chetwani*/
+/*   Demonstrate the implementation of Semaphore for thread synchronization
+     in the following scenario:
+There is a resource that we want to allow only one thread at a time to 
+manipulate. For example, we have a file that we only want to be written into
+only by one thread at a time, to avoid corrupting its contents. Create three
+threads which want to simultaneously access a file “bca.txt” for writing some
+contents into the file. Implement Semaphore for Mutual Exclusion so that only
+one thread at a time will be allowed to access the file for writing whereas the
+other thread will be made to wait.(File should have the content of all threads)
+
+Code Written By:4ghori*/
+
 #include <stdio.h>
 #include <unistd.h>
 #include <pthread.h>
