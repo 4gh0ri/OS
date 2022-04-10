@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <pthread.h>
-#include <semaphore.h>
 
-sem_t sem;//Declaring Semaphore
 int c,x,totalhits=0;
 void* thrd()
 {
